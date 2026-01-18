@@ -263,7 +263,7 @@ body{
     border: 2px solid gray;
     display: inline-block;
     margin: auto auto 5px auto;
-    background: url(../images/.avif) no-repeat;
+    background: url(../images/box-bg.avif) no-repeat;
     background-size: cover;
 
 }
